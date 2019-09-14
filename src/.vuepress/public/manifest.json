@@ -1,0 +1,15 @@
+{
+  "name": "おてあげ４９のブログ",
+  "short_name": "おてあげ４９",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/blog/",
+  "display": "browser",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c"
+}
