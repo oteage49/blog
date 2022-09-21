@@ -7,6 +7,6 @@
     "build": "vuepress build src"
   },
   "dependencies": {
-    "vuetify": "^1.5.16"
+    "vuetify": "^2.6.10"
   }
 }
